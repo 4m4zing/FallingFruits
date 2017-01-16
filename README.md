@@ -1,5 +1,5 @@
 # Falling Fruits
-A simple game create using C++ and SFML that requires player to control a basket and collect as many fruits as they can within 30 seconds
+A simple game created using C++ and SFML that requires player to control a basket and collect as many fruits as they can within 30 seconds
 
 ### Used Libraries
 - [Simple and Fast Multimedia Library (SFML)](https://www.sfml-dev.org/)
