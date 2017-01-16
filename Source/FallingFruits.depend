@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1483568389 source:c:\users\adlan shafi ab aziz\desktop\test\fallingfruits\main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<iostream>
+	"gameStart.hpp"
+
+1483351429 c:\users\adlan shafi ab aziz\desktop\test\fallingfruits\splash.h
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+
+1483568389 source:c:\users\adlan shafi ab aziz\desktop\test\fallingfruits\splash.cpp
+	"Splash.hpp"
+
+1483568537 c:\users\adlan shafi ab aziz\desktop\test\fallingfruits\splash.hpp
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<iostream>
+	"globalVar.hpp"
+
+1483568389 source:c:\users\adlan shafi ab aziz\desktop\test\fallingfruits\gamemenu.cpp
+	"gameMenu.hpp"
+
+1483568537 c:\users\adlan shafi ab aziz\desktop\test\fallingfruits\gamemenu.hpp
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<iostream>
+	"globalVar.hpp"
+
+1483568388 source:c:\users\adlan shafi ab aziz\desktop\test\fallingfruits\fruit.cpp
+	"Fruit.hpp"
+
+1483568536 c:\users\adlan shafi ab aziz\desktop\test\fallingfruits\fruit.hpp
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<iostream>
+	<sstream>
+	"globalVar.hpp"
+
+1483568389 source:c:\users\adlan shafi ab aziz\desktop\test\fallingfruits\player.cpp
+	"Player.hpp"
+
+1483568537 c:\users\adlan shafi ab aziz\desktop\test\fallingfruits\player.hpp
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<iostream>
+	<sstream>
+	<string>
+	"globalVar.hpp"
+
+1483568388 source:c:\users\adlan shafi ab aziz\desktop\test\fallingfruits\bomb.cpp
+	"Bomb.hpp"
+
+1483568534 c:\users\adlan shafi ab aziz\desktop\test\fallingfruits\bomb.hpp
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<iostream>
+	"globalVar.hpp"
+
+1483570110 source:c:\users\adlan shafi ab aziz\desktop\test\fallingfruits\gamestart.cpp
+	"gameStart.hpp"
+
+1483571314 c:\users\adlan shafi ab aziz\desktop\test\fallingfruits\gamestart.hpp
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/Audio.hpp>
+	<iostream>
+	"globalVar.hpp"
+	"Splash.hpp"
+	"gameMenu.hpp"
+	"Bomb.hpp"
+	"Fruit.hpp"
+	"Player.hpp"
+	"gameHelp.hpp"
+
+1483568537 c:\users\adlan shafi ab aziz\desktop\test\fallingfruits\globalvar.hpp
+
+1483568389 source:c:\users\adlan shafi ab aziz\desktop\test\fallingfruits\globalvar.cpp
+	"globalVar.hpp"
+
+1483568536 c:\users\adlan shafi ab aziz\desktop\test\fallingfruits\gamehelp.hpp
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<iostream>
+
+1483551078 c:\users\adlan shafi ab aziz\desktop\test\fallingfruits\ghelp.hpp
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<iostream>
+
+1483551692 source:c:\users\adlan shafi ab aziz\desktop\test\fallingfruits\ghelp.cpp
+	"gHelp.hpp"
+
+1483568389 source:c:\users\adlan shafi ab aziz\desktop\test\fallingfruits\gamehelp.cpp
+	"gameHelp.hpp"
+
