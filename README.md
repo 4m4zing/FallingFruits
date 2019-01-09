@@ -8,6 +8,6 @@ A simple game created using C++ and SFML that requires player to control a baske
 - [Code::Blocks](http://www.codeblocks.org/)
 
 ### Installation
-1. Download the [[ZIP] FallingFruits v1.5](https://github.com/4m4zing/FallingFruits/blob/master/Executable/%5BEXE%5D%20FallingFruits%20v1.5.zip)
+1. Download the [FallingFruits v1.5.zip](https://github.com/4m4zing/FallingFruits/blob/master/Executable/%5BEXE%5D%20FallingFruits%20v1.5.zip)
 2. Extract the zip file
 3. Launch the game by clicking `FallingFruits.exe`
