@@ -1,4 +1,4 @@
-# Falling Fruits
+# Falling Fruits (2016)
 A simple game created using C++ and SFML that requires player to control a basket and collect as many fruits as they can within 30 seconds
 
 ### Used Libraries
